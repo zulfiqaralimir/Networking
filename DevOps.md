@@ -27,7 +27,7 @@ When you're working in a DevOps environment, networking is critical because it e
 ### A. **Infrastructure as Code (IaC)**
 - **What It Means:** Instead of manually setting up networks, you write code that describes how your network should be built.
 - **Why It’s Important:** This makes it easy to recreate the same network setup over and over without mistakes.
-- **Example:** Using a tool like Terraform to define your network settings (like virtual networks, subnets, and security groups).
+- **Example:** Using a tool like **Terraform** to define your network settings (like virtual networks, subnets, and security groups).
 
 ### B. **Automating Deployments**
 - **Automated Setup:** When you deploy your software, your network (like firewalls, load balancers, etc.) is set up automatically.
