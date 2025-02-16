@@ -14,7 +14,7 @@
 **DevOps** is a way of working that brings together software development (Dev) and IT operations (Ops). The goal is to make building, testing, and releasing software faster and more reliable.
 
 ### Key Ideas in DevOps:
-- **Automation:** Using scripts or tools to do tasks automatically.
+- **Automation:** Using *scripts or tools* to do tasks automatically.
 - **Continuous Integration/Continuous Deployment (CI/CD):** Frequently updating software in small, manageable pieces.
 - **Collaboration:** Working closely together across different teams.
 
